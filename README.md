@@ -1,3 +1,3 @@
 # CookieCipher
-basic cipher in visual basic
-![gif](http://i.imgur.com/uSIZMNw.gifv)
+* basic cipher in visual basic
+* ![gif](https://raw.githubusercontent.com/CabbaLens/CookieCipher/master/demo.gif)
